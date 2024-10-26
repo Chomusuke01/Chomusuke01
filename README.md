@@ -3,7 +3,7 @@
     <tr>
       <td align="center">
         <img src="img/me.png" width="100"/><br>
-        <a href="your-linkedin-URL">
+        <a href="https://www.linkedin.com/">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
       </td>
